@@ -1,0 +1,10 @@
+Preprocess(data): this function is converting textual data into desired data-frame which would be used in the processing.
+Displaying the stats of selected users which includes total messsages,links,media shared and words.
+Finding the top 5 most busiest users in the group and who has done most % of messages.
+Finding most common words used in the messages using wordcloud (after removing stop words).
+Then have done emojis analysis
+Then have calculated monthly activity
+Then have calculated weekly activity
+Then have calculated daily activity
+Then have calculated most busy month and most musy days
+Then using heatmap we have calculated on which time and day users were most and least active
